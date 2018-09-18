@@ -1,0 +1,1 @@
+nb_classifier.score(X_test, newsgroups_test.target)
