@@ -1,0 +1,7 @@
+  gensim=3.4
+  scikit-learn=0.19
+  seaborn
+  jupyter
+  pandas=0.23
+  nltk
+  
