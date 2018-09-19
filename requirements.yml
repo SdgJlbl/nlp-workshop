@@ -2,11 +2,12 @@ name: nlp
 channels:
   - defaults
 dependencies:
-  - gensim=3.4
-  - scikit-learn=0.19
+  - gensim
+  - scikit-learn
   - seaborn
   - jupyter
-  - pandas=0.23
+  - pandas
   - pip:
-    - nltk==3.3
+    - eli5
+    - nltk
 prefix: /home/sdg/miniconda3/envs/nlp

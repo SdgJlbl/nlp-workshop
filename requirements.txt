@@ -1,7 +1,8 @@
-  gensim=3.4
-  scikit-learn=0.19
+  gensim
+  scikit-learn
   seaborn
   jupyter
-  pandas=0.23
+  pandas
+  eli5
   nltk
   
