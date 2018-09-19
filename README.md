@@ -15,5 +15,7 @@ To run this tutorial, please install the environment, either using pip or conda.
 
     `pip install -r requirements.txt`.
     
-    Then run `jupyter notebook` to start the notebook.    
+    Then run `jupyter notebook` to start the notebook.
+    
+For the second and the third parts of the workshop, you will need the pretrained word2vec vectors that you can download [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit).
     
