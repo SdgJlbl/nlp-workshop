@@ -10,4 +10,3 @@ dependencies:
   - pip:
     - eli5
     - nltk
-prefix: /home/sdg/miniconda3/envs/nlp
